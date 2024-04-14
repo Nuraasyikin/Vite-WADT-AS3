@@ -1,18 +1,21 @@
 <template>
   <div id="app">
     <HelloWorld/>
+    <!-- <About/> -->
   </div>
 </template>
 
-<script>
+<script setup>
 import HelloWorld from './components/HelloWorld.vue'
+// import About from './components/About.vue'
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+
+// export default {
+//   name: 'App',
+//   components: {
+//     HelloWorld
+//   }
+// }
 </script>
 
 <style>
