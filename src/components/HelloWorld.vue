@@ -3,6 +3,7 @@
     <div class="absolute inset-0 -z-10 bg-[radial-gradient(45rem_50rem_at_top,theme(colors.indigo.100),white)] opacity-20" />
     <div class="absolute inset-y-0 right-1/2 -z-10 mr-16 w-[200%] origin-bottom-left skew-x-[-30deg] bg-white shadow-xl shadow-indigo-600/10 ring-1 ring-indigo-50 sm:mr-28 lg:mr-0 xl:mr-16 xl:origin-center" />
     <div class="mx-auto max-w-2xl lg:max-w-4xl">
+      <h1>Hello world</h1>
       <h1 class="text-4xl font-semibold leading-10 text-gray-900 sm:text-5xl sm:leading-12 text-center">About Me</h1>
       <!-- <img class="mx-auto h-12" src="https://tailwindui.com/img/logos/workcation-logo-indigo-600.svg" alt="" /> -->
       <figure class="mt-10">
